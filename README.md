@@ -9,4 +9,4 @@ Configuración inicial de docker-compose para algunas bases de datos, se cambiar
     Conectamos a la shell mongosh usando las credenciales del docker-compose:
         $ mongosh "mongodb://localhost:27017" --username root --authenticationDatabase admin
 
-  Advertencia: En Windows usar cmd o powershell, ya que no pude hacer esto con git bash
+  ⚠️Advertencia⚠️: En Windows usar cmd o powershell, ya que no pude hacer esto con git bash
